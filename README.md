@@ -1,15 +1,3 @@
----
-title: "Software"
-excerpt: "Prueba README Github"
-date: 2022-01-12
-collection: software
-tags:
-  - Biofísica
-  - Circuitos
-  - EDOs
-  - Python
----
-
 ![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey&label=Profile views)
 
 <div class="page__hero--overlay" style="background-color:'transparent'; background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/githubprofile.jpeg');">
