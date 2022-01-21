@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey&label=Profile views)
+<!-- ![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey&label=Profile views)
 
 <div class="page__hero--overlay" style="background-color:'transparent'; background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/githubprofile.jpeg');">
     <div class="wrapper">
@@ -7,7 +7,7 @@
       </h1>
        <p class="page__lead">Currently a student of physics engineering at Universidad Autónoma de Coahuila</p>
     </div>
-</div>
+</div> -->
 
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>-->
 
@@ -16,11 +16,11 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <p style="text-align:justify">
-I'm currently a student in the 8th semester of the Physics Engineering career at Faculty of Physical-Mathematical Sciences of the Universidad Autónoma de Coahuila. My interest are scientific computing, statistics, numerical analysis and computational physics. 
+I'm currently a student the 8th semester of the Physics Engineering career at Faculty of Physical-Mathematical Sciences of the Universidad Autónoma de Coahuila. I'm interesting on scientific computing, statistics, numerical analysis and computational physics. 
 </p>
 
 <p style="text-align:justify">
-I have strong programming skills in Python and C/C++. In other languages or softwares (mathematical softwares) I think I have less knowledge, for example: Fortran, Julia, Java Script, Mathematica and Matlab. Also I have considerable knowledge of web development and graphics user interfaces development. In adittion, I have good knowledge in tools for data science, data analysis and IA, but in these areas I still consider myself a beginner. 
+I have strong programming skills in Python and C/C++. I have some knowledge in other languages and mathematical softwares such as Fortran, Julia, Java Script, Mathematica and Matlab. Also I have considerable knowledge of web development and graphics user interfaces development. In adittion, I have good knowledge in tools for data science, data analysis and IA, but in these areas I still consider myself a beginner. 
 </p>
 
 <p style="text-align:justify">
