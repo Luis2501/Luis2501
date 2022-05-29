@@ -1,17 +1,10 @@
 <!-- ![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey&label=Profile views)-->
 
-<div class="page__hero--overlay" style="background-color:'transparent'; background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/githubprofile.jpeg');">
-    <div class="wrapper">
-      <h1 class="page__title" itemprop="headline">
-	Luis Eduardo Sánchez 
-      </h1>
-       <p class="page__lead">Currently a student of physics engineering at Universidad Autónoma de Coahuila</p>
-    </div>
-</div> 
+![Header](../images/github-header-image.png)
 
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>-->
 
-# 👋 &nbsp; Hi! I'm Luis Eduardo Sánchez 
+<!--# 👋 &nbsp; Hi! I'm Luis Eduardo Sánchez -->
 
 ## 👨🏻‍💻 &nbsp;About Me
 
