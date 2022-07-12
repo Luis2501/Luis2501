@@ -82,6 +82,8 @@ I keep on learning continuously and I like to share with others what I have lear
 
 </details>
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
