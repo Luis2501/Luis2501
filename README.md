@@ -82,7 +82,12 @@ I keep on learning continuously and I like to share with others what I have lear
 
 </details>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+<details>
+   <summary><b>Contributions Activity</b></summary>
+   <br/>
+   <img alt = "Luis contributions" src="./profile-3d-contrib/profile-night-green.svg" />
+   <br/>
+</details>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
