@@ -1,6 +1,13 @@
-<!-- ![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey&label=Profile views)-->
+![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey)
 
 ![Header](images/github-header-image.png)
+
+<!-- <a href="https://www.youtube.com/channel/UC3IDElXb7LxDBoaP3wT9zZg">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC3IDElXb7LxDBoaP3wT9zZg&key=AIzaSyApmy-eaYQ2OgZ6RdkxOtfZYojVjGqSjMs"/> 
+</a> 
+<a href="https://www.youtube.com/channel/UC3IDElXb7LxDBoaP3wT9zZg">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC3IDElXb7LxDBoaP3wT9zZg&key=AIzaSyApmy-eaYQ2OgZ6RdkxOtfZYojVjGqSjMs"/>
+</a> -->
 
 <!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>-->
 
@@ -9,11 +16,11 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <p style="text-align:justify">
-I'm currently a student the 8th semester of the Physics Engineering career at Faculty of Physical-Mathematical Sciences of the Universidad Autónoma de Coahuila. I'm interesting on scientific computing, statistics, numerical analysis and computational physics. 
+I'm currently a student the 9th semester of the Physics Engineering career at Faculty of Physical-Mathematical Sciences of the Universidad Autónoma de Coahuila. I'm interesting on scientific computing, statistics, numerical analysis and computational physics. 
 </p>
 
 <p style="text-align:justify">
-I have strong programming skills in Python and C/C++. I have some knowledge in other languages and mathematical softwares such as Fortran, Julia, Java Script, Mathematica and Matlab. Also I have considerable knowledge of web development and graphics user interfaces development. In adittion, I have good knowledge in tools for data science, data analysis and IA, but in these areas I still consider myself a beginner. 
+I have strong programming skills in Python and C/C++. I have some knowledge in other languages and mathematical softwares such as Fortran, Julia, Java Script, Mathematica and Matlab. Also I have considerable knowledge of web development and graphics user interfaces development. 
 </p>
 
 <p style="text-align:justify">
@@ -82,8 +89,9 @@ I keep on learning continuously and I like to share with others what I have lear
 
 </details>
 
+
 <details>
-   <summary><b>Contributions Activity</b></summary>
+   <summary><b>📄 Contributions Activity</b></summary>
    <br/>
    <img alt = "Luis contributions" src="./profile-3d-contrib/profile-night-green.svg" />
    <br/>
