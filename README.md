@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=luis2501&color=lightgrey)
 
-![Header](images/github-header-image.png)
+![Header](images/github-header-image_1.png)
 
 <!-- <a href="https://www.youtube.com/channel/UC3IDElXb7LxDBoaP3wT9zZg">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC3IDElXb7LxDBoaP3wT9zZg&key=AIzaSyApmy-eaYQ2OgZ6RdkxOtfZYojVjGqSjMs"/> 
@@ -16,7 +16,7 @@
 ## 👨🏻‍💻 &nbsp;About Me
 
 <p style="text-align:justify">
-I'm currently a student the 9th semester of the Physics Engineering career at Faculty of Physical-Mathematical Sciences of the Universidad Autónoma de Coahuila. I'm interesting on scientific computing, statistics, numerical analysis and computational physics. 
+Currently I'm working in my thesis about quantum geometry in 2D materials under the supervision of Dr. Pierre Anthony Pantaleón. My research interests focus on theoretical condensed matter physics, but also I'm interesting on scientific computing, statistics, numerical analysis and computational physics. 
 </p>
 
 <p style="text-align:justify">
